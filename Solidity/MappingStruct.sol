@@ -2,7 +2,6 @@
 pragma solidity >=0.8.18;
 
 contract MyContract {
-
     struct Person {
         string _firstName;
         string _lastName;
